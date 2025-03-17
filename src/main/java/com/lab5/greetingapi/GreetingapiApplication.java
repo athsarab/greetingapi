@@ -9,7 +9,7 @@ public class GreetingapiApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(GreetingapiApplication.class, args);
 		
-	}
+	} 
 
 }
   
